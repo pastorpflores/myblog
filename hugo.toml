@@ -750,6 +750,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
 
+# Github configuration of cache images
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Multilingual
 # 多语言
 [languages]
