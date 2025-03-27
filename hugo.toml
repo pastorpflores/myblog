@@ -6,7 +6,7 @@ theme = "LoveIt"
 themesDir = "themes/"
 
 # website title
-title = "Energy with Pablo"
+title = "Ideas with Pablo 🔋"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "en"
@@ -100,7 +100,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Energy with Pablo"
+      name = "Ideas with Pablo 🔋"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""#"<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -147,7 +147,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "Ideas with Pablo"
+    title = "Ideas with Pablo 🔋"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -740,7 +740,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         identifier = "posts"
         pre = ""
         post = ""
-        name = "所有文章"
+        name = "Posts"
         url = "/posts/"
         title = ""
       #[[languages.es.menu.main]]
@@ -771,7 +771,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         identifier = "about"
         pre = ""
         post = ""
-        name = "关于"
+        name = "Sobre mí"
         url = "/about/"
         title = ""
       [[languages.es.menu.main]]
@@ -806,7 +806,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           subtitle = "Experiencias y ideas (locas) de un ingeniero en energía y tecnología"
           typeit = false
           social = true
-          disclaimer = "Disclaimer here?"
+          disclaimer = ""
       [languages.es.params.social]
         GitHub = "pastorpflores"
         #X = "xxxx"
