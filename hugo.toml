@@ -57,14 +57,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Tags"
     url = "/tags/"
     title = ""
-  [[menu.main]]
-    weight = 3
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
+  #[[menu.main]]
+  #  weight = 3
+  #  identifier = "categories"
+  #  pre = ""
+  #  post = ""
+  #  name = "Categories"
+  #  url = "/categories/"
+  #  title = ""
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -647,30 +647,30 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "Posts"
         url = "/posts/"
         title = ""
-      [[languages.en.menu.main]]
-        weight = 2
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "Tags"
-        url = "/tags/"
-        title = ""
-      [[languages.en.menu.main]]
-        weight = 3
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "Categories"
-        url = "/categories/"
-        title = ""
-      [[languages.en.menu.main]]
-        weight = 4
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
+      #[[languages.en.menu.main]]
+      #  weight = 2
+      #  identifier = "tags"
+      #  pre = ""
+      #  post = ""
+      #  name = "Tags"
+      #  url = "/tags/"
+      #  title = ""
+      #[[languages.en.menu.main]]
+      #  weight = 3
+      #  identifier = "categories"
+      #  pre = ""
+      #  post = ""
+      #  name = "Categories"
+      #  url = "/categories/"
+      #  title = ""
+      #[[languages.en.menu.main]]
+      #  weight = 4
+      #  identifier = "documentation"
+      #  pre = ""
+      #  post = ""
+      #  name = "Docs"
+      #  url = "/categories/documentation/"
+      #  title = ""
       [[languages.en.menu.main]]
         weight = 5
         identifier = "about"
@@ -708,7 +708,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "Energy engineering blog about batteries, software, management and more."
+          subtitle = "Experiences and (nonsense) ideas of an engineer in energy and tech"
           typeit = false
           social = true
           disclaimer = ""
@@ -743,29 +743,29 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "所有文章"
         url = "/posts/"
         title = ""
-      [[languages.es.menu.main]]
-        weight = 2
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "标签"
-        url = "/tags/"
-        title = ""
-      [[languages.es.menu.main]]
-        weight = 3
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "分类"
-        url = "/categories/"
-        title = ""
-      [[languages.es.menu.main]]
-        weight = 4
-        identifier = "documentation"
-        pre = ""
-        name = "文档"
-        url = "/categories/documentation/"
-        title = ""
+      #[[languages.es.menu.main]]
+      #  weight = 2
+      #  identifier = "tags"
+      #  pre = ""
+      #  post = ""
+      #  name = "标签"
+      #  url = "/tags/"
+      #  title = ""
+      #[[languages.es.menu.main]]
+      #  weight = 3
+      #  identifier = "categories"
+      #  pre = ""
+      #  post = ""
+      #  name = "分类"
+      #  url = "/categories/"
+      #  title = ""
+      #[[languages.es.menu.main]]
+      #  weight = 4
+      #  identifier = "documentation"
+      #  pre = ""
+      #  name = "文档"
+      #  url = "/categories/documentation/"
+      #  title = ""
       [[languages.es.menu.main]]
         weight = 5
         identifier = "about"
@@ -803,7 +803,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
+          subtitle = "Experiencias y ideas (locas) de un ingeniero en energía y tecnología"
           typeit = false
           social = true
           disclaimer = "Disclaimer here?"
