@@ -1,9 +1,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>HTML - Tag - Energy with Pablo</title>
+        <title>HTML - Tag - Ideas with Pablo 🔋</title>
         <link>http://localhost:1313/tags/html/</link>
-        <description>HTML - Tag - Energy with Pablo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/html/" rel="self" type="application/rss+xml" /><item>
+        <description>HTML - Tag - Ideas with Pablo 🔋</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>contact@withpablo.com (Pablo)</managingEditor>
+            <webMaster>contact@withpablo.com (Pablo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 03 Mar 2025 12:35:40 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/html/" rel="self" type="application/rss+xml" /><item>
+    <title>Why does this blog exists</title>
+    <link>http://localhost:1313/blog-presentation/</link>
+    <pubDate>Mon, 03 Mar 2025 12:35:40 &#43;0200</pubDate>
+    <author>Pablo</author>
+    <guid>http://localhost:1313/blog-presentation/</guid>
+    <description><![CDATA[<p>38% of webpages that existed in 2013 are no longer accessible a decade later <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p><a href="https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/" target="_blank" rel="noopener noreffer ">When Online Content Disappears</a> (<em>will be funny when you cannot access this citation</em>) Pew Research Center, By Athena Chapekis, Samuel Bestvater, Emma Remy and Gonzalo Rivero.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>]]></description>
+</item>
+<item>
     <title>Basic Markdown Syntax</title>
     <link>http://localhost:1313/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
