@@ -34,6 +34,4 @@ Soy Pablo. Un ingeniero energético europeo apasionado por los gadgets, las bate
 
 En fin, quiero agradecerte por tu paciencia al leer hasta aquí. Esto es solo el comienzo, y me encantaría que formaras parte de la definición del rumbo que tomaremos. Tus sugerencias e intereses me ayudarán a dar forma a esta criatura. Así que por favor, sigue leyendo, comparte tus pensamientos, y construyamos juntos este rincón de internet. Un placer tenerte en este viaje.
 
-### Referencias
-
-[^1]: [When Online Content Disappears](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/) (_will be funny when you cannot access this citation_) Pew Research Center, By Athena Chapekis, Samuel Bestvater, Emma Remy and Gonzalo Rivero.
+[^1]: [When Online Content Disappears](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/) (_ya verás que gracia cuando la referencia deje de existir_) Pew Research Center, Por Athena Chapekis, Samuel Bestvater, Emma Remy and Gonzalo Rivero.

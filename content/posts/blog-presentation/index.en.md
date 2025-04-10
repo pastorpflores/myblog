@@ -35,7 +35,4 @@ I'm Pablo. A European energy engineer with a passion for gadgets, batteries, DIY
 
 In any case, I want to thank you for your patience in reading this far. This is just the beginning, and I'd love for you to be part of shaping where we go from here. Your suggestions and interests will help me to give shape to this creature. So please, keep reading, share your thoughts, and let's build this corner of the internet together. I'm grateful to have you along for the ride.
 
-
-### References
-
 [^1]: [When Online Content Disappears](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/) (_will be funny when you cannot access this citation_) Pew Research Center, By Athena Chapekis, Samuel Bestvater, Emma Remy and Gonzalo Rivero.
