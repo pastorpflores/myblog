@@ -1,16 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - Ideas with Pablo 🔋</title>
+        <title>All Posts - Energy with Pablo 🔋</title>
         <link>http://localhost:1313/posts/</link>
-        <description>All Posts | Ideas with Pablo 🔋</description>
+        <description>All Posts | Energy with Pablo 🔋</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>contact@withpablo.com (Pablo)</managingEditor>
-            <webMaster>contact@withpablo.com (Pablo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Why does this blog exists</title>
+            <webMaster>contact@withpablo.com (Pablo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 10 Apr 2025 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Welcome to my brand new syte!</title>
     <link>http://localhost:1313/blog-presentation/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <pubDate>Thu, 10 Apr 2025 21:57:40 &#43;0800</pubDate>
     <author>Pablo</author>
     <guid>http://localhost:1313/blog-presentation/</guid>
-    <description><![CDATA[<p>Hey you, thanks for being there, wherever you are. And for deciding to spend a minute or two here. You&rsquo;ve probably just arrived by chance and feel a bit unsure about what you&rsquo;ve found. Don&rsquo;t worry, let me explain where you are and who I am.</p>
+    <description><![CDATA[<h2 id="declaration-of-intentions">Declaration of intentions</h2>
+<p>Hey you, thanks for being there, wherever you are. And for deciding to spend a minute or two here. You&rsquo;ve probably just arrived by chance and feel a bit unsure about what you&rsquo;ve found. Don&rsquo;t worry, let me explain where you are and who I am.</p>
 <p>I&rsquo;m Pablo. A European energy engineer with a passion for gadgets, batteries, DIY projects, and technology in general. I&rsquo;m amazed by the modern world in every sense—from the bottom level of technological implementation to the abstract concepts of current business models, markets, and strategic trends. I mean no harm; I just want to entertain you and, if possible, share some ideas.</p>]]></description>
 </item>
 </channel>

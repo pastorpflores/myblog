@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - Ideas with Pablo 🔋</title>
+        <title>Tags - Tag - Energy with Pablo 🔋</title>
         <link>http://localhost:1313/tags/</link>
-        <description>Tags - Tag - Ideas with Pablo 🔋</description>
+        <description>Tags - Tag - Energy with Pablo 🔋</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>contact@withpablo.com (Pablo)</managingEditor>
             <webMaster>contact@withpablo.com (Pablo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

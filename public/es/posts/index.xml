@@ -1,16 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Todos los Artículos - Ideas with Pablo 🔋</title>
+        <title>Todos los Artículos - Energy with Pablo 🔋</title>
         <link>http://localhost:1313/es/posts/</link>
-        <description>Todos los Artículos | Ideas with Pablo 🔋</description>
+        <description>Todos los Artículos | Energy with Pablo 🔋</description>
         <generator>Hugo -- gohugo.io</generator><language>es-es</language><managingEditor>contact@withpablo.com (Pablo)</managingEditor>
-            <webMaster>contact@withpablo.com (Pablo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/es/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Why does this blog exists</title>
+            <webMaster>contact@withpablo.com (Pablo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 10 Apr 2025 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/es/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Bienvenido a mi web!</title>
     <link>http://localhost:1313/es/blog-presentation/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <pubDate>Thu, 10 Apr 2025 21:57:40 &#43;0800</pubDate>
     <author>Pablo</author>
     <guid>http://localhost:1313/es/blog-presentation/</guid>
-    <description><![CDATA[<p>Hola, gracias por estar ahí, dondequiera que estés. Y por decidir pasar uno o dos minutos aquí. Probablemente hayas llegado por casualidad y te sientas un poco perdido sobre lo que has encontrado. No te preocupes, déjame explicarte dónde estás y quién soy.</p>
+    <description><![CDATA[<h2 id="declaración-de-intenciones">Declaración de intenciones</h2>
+<p>Hola, gracias por estar ahí, dondequiera que estés. Y por decidir pasar uno o dos minutos aquí. Probablemente hayas llegado por casualidad y te sientas un poco perdido sobre lo que has encontrado. No te preocupes, déjame explicarte dónde estás y quién soy.</p>
 <p>Soy Pablo. Un ingeniero energético europeo apasionado por los gadgets, las baterías, el bricolaje y la tecnología en general. Me maravilla el mundo moderno en todos los sentidos—desde el nivel más básico de implementación tecnológica hasta los conceptos abstractos de los modelos de negocio actuales, mercados y tendencias estratégicas. No pretendo hacer daño; solo quiero entretenerte y, si es posible, compartir algunas ideas contigo.</p>]]></description>
 </item>
 </channel>

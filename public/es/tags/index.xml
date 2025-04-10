@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Etiqueta - Ideas with Pablo 🔋</title>
+        <title>Tags - Etiqueta - Energy with Pablo 🔋</title>
         <link>http://localhost:1313/es/tags/</link>
-        <description>Tags - Etiqueta - Ideas with Pablo 🔋</description>
+        <description>Tags - Etiqueta - Energy with Pablo 🔋</description>
         <generator>Hugo -- gohugo.io</generator><language>es-es</language><managingEditor>contact@withpablo.com (Pablo)</managingEditor>
             <webMaster>contact@withpablo.com (Pablo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:1313/es/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
