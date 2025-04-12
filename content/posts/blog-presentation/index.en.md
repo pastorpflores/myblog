@@ -1,8 +1,8 @@
 ---
 weight: 4
 title: "Welcome to my brand new site!"
-date: 2025-04-10T21:57:40+08:00
-lastmod: 2025-04-10T21:57:40+08:00
+date: 2025-03-30T21:57:40+08:00
+lastmod: 2025-03-30T21:57:40+08:00
 draft: false
 author: "Pablo"
 authorLink: ""
@@ -23,7 +23,7 @@ I'm Pablo. A European energy engineer with a passion for gadgets, batteries, DIY
 
 ## Why does this blog exist
 
-- Social media has transformed us and the internet as we know it. I won't lie, I've been there too—scrolling for hours without really retaining anything, spending mere seconds on each photo or video. At this stage in the refinement of the algorithm, blogs might seem like the lamest way of sharing content, but for this very reason, now is the time to advocate for a calmer, more reflective medium. I don't promise I'll succeed, but I'm going to try, and this is my small contribution.
+- Social media has transformed us and the internet as we know it. I won't lie, I've been there too—scrolling for hours without really retaining anything, spending mere seconds on each photo or video. At this stage in the refinement of _the algorithm_, blogs might seem like the lamest way of sharing content, but for this very reason, now is the time to advocate for a calmer, more reflective medium. I don't promise I'll succeed, but I'm going to try, and this is my small contribution.
 
 - I enjoy spending hours digging through the internet to find geeky gems hidden in its corners. But 38% of webpages that existed in 2013 have disappeared today [^1]. That's why I want to maintain my personal collection of solutions, tech content, and cool people I discover, and if I'm doing that... why not share it with you?
 
